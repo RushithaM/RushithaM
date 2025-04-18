@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Rushitha 👋</h1>
 
-<!--
-**RushithaM/RushithaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Software Developer | 🎨 UI/UX Designer<br>
+  🧠 AI Explorer | ⚙️ Automation Fan | ☕ Code & Chill Enthusiast
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🧠 Passionate about building AI-powered tools & pixel-perfect UIs
+- 🎨 Love exploring: AI chatbots, open-source tools, full-stack stuff  
+- 💡 Love turning complex ideas into clean interfaces
+- 🎯 Goals for 2025: Build cleaner UIs, ship faster, and blog a little more  
+- 🧘 Chill hobbies: Doodling wireframes, vibing to playlists, overthinking project names
+
+---
+
+### 🧰 My Tech Toolbox
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,xd,html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,redis,python,java,docker,aws&perline=9" />
+</p> 
+
+---
+
+### 💌 Let's Connect
+<p align="center">
+  <a href=["https://linkedin.com/in/rushithamettukuru](https://www.linkedin.com/in/rushithamettukuru/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rushithamettukuru@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[http://github.com/RushithaM/](http://github.com/RushithaM/)" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+> I write code like I make tea: hot, strong, and with just enough bugs to keep things interesting 🍵
